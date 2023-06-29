@@ -3,7 +3,9 @@
 
 ## Why?
 
-I made this script because I wanted a quick way to configure an Ubuntu install(Kubuntu actually, if in gui mode)  It installs a collection of tools I want, and optionally, a desktop environment (KDE Plasma) and the Brave browser, when the "--include-gui" argument is provided.
+I made this script because I wanted a quick way to configure an Ubuntu install(Kubuntu actually, if in gui mode).
+The starting point is an Ubuntu Server image.
+It installs a collection of tools I want, and optionally, a desktop environment (KDE Plasma) and the Brave browser, when the "--include-gui" argument is provided.
 
 ## Compatibility
 
